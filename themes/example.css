@@ -1,0 +1,12 @@
+/* @theme example */
+
+@import 'default';
+
+section {
+  background: rgb(133, 218, 189);
+  color: rgb(245, 252, 118);
+}
+
+/* section.lead h2 {
+  color: orange
+} */
